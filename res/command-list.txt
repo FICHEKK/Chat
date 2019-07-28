@@ -1,0 +1,8 @@
+chat.server.command.HelpCommand
+chat.server.command.KickCommand
+chat.server.command.BanCommand
+chat.server.command.PrivateMessageCommand
+chat.server.command.SetPrivilegeLevelCommand
+chat.server.command.DeleteCommand
+chat.server.command.UnbanCommand
+chat.server.command.BanListCommand

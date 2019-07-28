@@ -1,0 +1,4 @@
+a,kosarkas,4,false
+d,kosarkas,2,true
+Mila,namorusam,0,false
+FICHEKK,nisamnamoru,0,false
